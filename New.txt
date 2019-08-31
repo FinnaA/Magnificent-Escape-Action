@@ -1,0 +1,11 @@
+Gameplay analytics
+Based on the data in Google Analytics, the top Dialogflow intents matched for the first room, the office, are in order of usage:
+Direction — for looking in a particular direction (e.g. “I want to look east”)
+Look — for looking at a particular item (e.g. “look at the desk”)
+Turns — for turning the dial of the safe (e.g. “turn to the right”)
+Open — for opening items (e.g. “open the drawer”)
+Side — for looking at the various sides of items (e.g. “look behind the painting”)
+Hint — for getting a hint on playing the game (e.g. “give me a hint”)
+Default Fallback — for handling any user input that isn’t matched by any other intents.
+The results for the other rooms are similar, but the “Hint” intent gets invoked less.
+I still find it very encouraging how hard some users try to win each room. Some users take hours exploring each room. Most of the users who won the first room take less than 20 minutes, and I’m assuming these users are more familiar with the game genre and mechanics.
